@@ -1,0 +1,5 @@
+DATA:
+  DATA: h36m
+MODEL:
+  WEIGHT: '' 
+  NUM_JOINTS: 17

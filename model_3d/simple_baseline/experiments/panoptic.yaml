@@ -1,0 +1,5 @@
+DATA:
+  DATA: panoptic
+MODEL:
+  WEIGHT: '' 
+  NUM_JOINTS: 15
