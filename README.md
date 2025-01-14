@@ -90,4 +90,16 @@ python run/train_hrnet.py --cfg model_2d/hrnet/experiments/h36m/w32_384x288_adam
 ```
 python run/valid_hrnet.py --cfg model_2d/hrnet/experiments/h36m/w32_384x288_adam_lr1e-3.yaml --model_dir ${model_weight_dir} --gpu_id 0 --model_3d sb
 ```
-#
+
+## Citation
+If you use our code or methods in your research, please cite with: 
+```
+@inproceedings{lee2024learning,
+  title={Learning 2D Human Poses for Better 3D Lifting via Multi-model 3D-Guidance},
+  author={Lee, Sanghyeon and Hwang, Yoonho and Lee, Jong Taek},
+  booktitle={Proceedings of the Asian Conference on Computer Vision},
+  pages={3344--3361},
+  year={2024}
+}
+```
+
