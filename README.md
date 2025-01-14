@@ -1,6 +1,6 @@
 # L2D-Pose
 
-The code for the ACCV 2024 paper "Learning 2D Human Poses for Better 3D Lifting via Multi-Model 3D-Guidance" by Sanghyeon Lee*, Yoonho Hwang*, and Jong Taek Lee.
+The code for the ACCV 2024 paper ["Learning 2D Human Poses for Better 3D Lifting via Multi-Model 3D-Guidance" by Sanghyeon Lee*, Yoonho Hwang*, and Jong Taek Lee.](https://openaccess.thecvf.com/content/ACCV2024/html/Lee_Learning_2D_Human_Poses_for_Better_3D_Lifting_via_Multi-Model_ACCV_2024_paper.html)
 
 You can cite this paper as: 
 
